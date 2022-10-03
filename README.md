@@ -1,3 +1,5 @@
+[Github Link](https://github.io/thivinanandh/NeuroEvolution)
+
 # NeuroEvolution
 ---
 
@@ -61,4 +63,4 @@ This code visually presents the information that has been feed to the neural net
 
 **click on the image to play online**
 
-[<img src="flappyNN/Images/flappynn.png">](https://thivinanandh.github.io/NeuroEvolution/flappyBird/index.html)
+[<img src="flappyNN/Images/flappynn.png">](https://thivinanandh.github.io/NeuroEvolution/flappyNN/index.html)
